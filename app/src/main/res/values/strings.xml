@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HypdAssignment</string>
+
+    <string name="amount_with_currency">%s%s</string>
+    <string name="delete_product">Delete Product</string>
+    <string name="copy_to_collection">Copy to Collection</string>
+    <string name="add_all">Add all</string>
+    <string name="add_product_title">Some Products you can add to your store:</string>
+    <string name="commission">Commission</string>
+</resources>
